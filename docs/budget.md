@@ -151,13 +151,4 @@ graph TD
 
 ---
 
-## Related Topics
-
-- [Dashboard Overview](/docs/dashboard/overview)
-- [Creating an Order](/docs/pos/creating-order)
-- [Managing Inventory](/docs/inventory/overview)
-- [Reports and Data Export](/docs/reports/reports-and-exports)
-
----
-
 *May tanong tungkol sa Budget Journal? Mag-email sa jeromevillaruel1998@icloud.com*
