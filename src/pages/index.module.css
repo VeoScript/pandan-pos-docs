@@ -16,6 +16,23 @@
   }
 }
 
+.heroBannerTitle {
+  font-family: "Lemon";
+  font-size: 3rem;
+  color: #1c4965;
+}
+
+.heroBannerTitle2 {
+  font-family: "Poppins";
+  font-size: 3rem;
+  color: #1c4965;
+}
+
+.heroBannerTagline {
+  font-size: 2rem;
+  color: #1c4965;
+}
+
 .buttons {
   display: flex;
   align-items: center;

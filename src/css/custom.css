@@ -1,4 +1,6 @@
 :root {
+  --ifm-font-family-base: "Poppins", sans-serif;
+  --ifm-heading-font-family: "Poppins", sans-serif;
   --ifm-color-primary: #65d084;
   --ifm-color-primary-dark: #55c576;
   --ifm-color-primary-darker: #4fc06f;

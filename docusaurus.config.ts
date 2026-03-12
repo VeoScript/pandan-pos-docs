@@ -5,9 +5,9 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: "Pandan POS",
+  title: "Pandan",
   tagline:
-    "The ultimate offline point-of-sale (POS) system designed for small businesses, entrepreneurs, and mobile vendors.",
+    "Para sa Tindera 🫶, Para sa Negosyo 💰",
   favicon: "img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -143,6 +143,12 @@ const config: Config = {
     mermaid: true,
   },
   themes: ["@docusaurus/theme-mermaid"],
+  stylesheets: [
+    {
+      href: "https://fonts.googleapis.com/css2?family=Lemon&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",
+      type: "text/css",
+    },
+  ],
 };
 
 export default config;
